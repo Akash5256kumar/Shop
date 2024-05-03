@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711817458157",
+    "project_id": "shop-20f21",
+    "storage_bucket": "shop-20f21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711817458157:android:b0e3a9b9d043e65d8cf7e4",
+        "android_client_info": {
+          "package_name": "com.indevo.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBJY1pSiLJ85P1ewOJFWW9-8S06PmearE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
